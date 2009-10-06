@@ -38,6 +38,5 @@ rm -rf %{buildroot}
 %files 
 %defattr(-,root,root,-)
 %doc COPYING NEWS AUTHORS README ChangeLog
-%exclude %{_libdir}/debug
 %{_libexecdir}/*
 %{_datadir}/*
