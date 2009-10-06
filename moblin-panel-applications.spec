@@ -12,7 +12,7 @@ BuildRequires: clutter-devel
 BuildRequires: gtk2-devel
 BuildRequires: gnome-menus-devel
 BuildRequires: nbtk-devel
-BuildRequires: mutter-moblin
+BuildRequires: moblin-panel-devel
 BuildRequires: intltool
 BuildRequires: gettext
 BuildRequires: gnome-common
