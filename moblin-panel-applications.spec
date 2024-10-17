@@ -3,7 +3,7 @@ Summary: Applications panel for Moblin
 Group: Graphical desktop/Other 
 Version: 0.0.5
 License: LGPL 2.1
-URL: http://www.moblin.org
+URL: https://www.moblin.org
 Release: %mkrel 3
 Source0: http://git.moblin.org/cgit.cgi/%{name}/snapshot/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
